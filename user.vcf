@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Heintzleman;Elizabeth;;;
 FN: Elizabeth  Heintzleman 
-ORG:IU Kelley School of Business;
-TITLE:MBA Candidate\nCo-Creator, The Daily Wax
+ORG:Co-Creator\nThe Daily Wax;
+TITLE:MBA Candidate\nIU Kelley School of Business
 EMAIL;type=INTERNET;type=WORK;type=pref:elizabethheintzleman@gmail.com
 TEL;type=WORK;type=VOICE:317 408 7333
-item1.ADR;type=WORK;type=pref:;;Indianapolis\, IN;;;46202;U.S.A.
+item1.ADR;type=WORK;type=pref:;;Indianapolis\, Indiana
 item1.X-ABADR:sg
 item2.URL;type=pref:www.thedailywax.com
 item2.X-ABLabel:_$!<HomePage>!$_
